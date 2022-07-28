@@ -1,6 +1,6 @@
 ### Oi! Eu sou a Emilly Marques 
 
-- 💻 Atualmente desenvolvo pesquisa na área de Informática
+- 💻 Atualmente desenvolvo pesquisa na área de Informática Urbana
 - 👩🏻‍💻 Estudando Desenvolvimento FullStack
 - 🌱 Procurando desenvolver soluções tecnológicas para desafios sócio-ambientais
 - 😄 Pronouns: ela/dela
