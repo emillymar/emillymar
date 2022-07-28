@@ -1,6 +1,6 @@
 ### Oi! Eu sou a Emilly Marques 
 
-- 💻 Atualmente sou mestranda em Informática pela UFRJ
+- 💻 Atualmente desenvolvo pesquisa na área de Informática
 - 👩🏻‍💻 Estudando Desenvolvimento FullStack
 - 🌱 Procurando desenvolver soluções tecnológicas para desafios sócio-ambientais
 - 😄 Pronouns: ela/dela
